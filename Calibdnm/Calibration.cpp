@@ -1,5 +1,3 @@
-
-
 #include "Calibration.h"
 #include "iostream"
 using namespace cv;
